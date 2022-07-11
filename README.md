@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Martin-Kremser
 - 👀 I’m interested in Sports and Education
-- 🌱 I’m currently learning Python, HTML and CSS
+- 🌱 I’m currently learning Python, Flask, Tkinter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me martin.kremser91@gmail.com
 
