@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Martin-Kremser
 - 👀 I’m interested in Sports and Education
 - 🌱 I’m currently learning Python, Flask, Tkinter
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for Projectmanagement jobs.
 - 📫 How to reach me martin.kremser91@gmail.com
 
 <!---
